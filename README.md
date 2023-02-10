@@ -14,5 +14,11 @@ You must have the followings downloaded:
 
 If you are running it in VSC you must have a virtual environment
 
+
+Make sure you changed the followings
+1. the file name on line 94
+2. the chromedriver directory on line 23
+
+
 Hanbyul (Estrella) Kim
 estrellakim03@gmail.com
