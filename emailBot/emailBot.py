@@ -13,16 +13,15 @@ SENDER_GMAIL = "sample@gmail.com" # Replace with your email address
 #This is the google app password
 #https://stackoverflow.com/questions/72478573/how-to-send-an-email-using-python-after-googles-policy-update-on-not-allowing-j
 #Check the above stackoverflow on how to get the google app password
-GOOGLE_APP_PASSWORD = "zocouuajtpnfoygm"  # Replace with your app password
-
+GOOGLE_APP_PASSWORD = ""  # Replace with your app password
 SUBJECT = ""    #Name subject
 FROM = "EGlow"
-RECEIVER_GMAIL = []
 TEXTFILE = "receiver_emails.txt"    #name of the txt file
-
 MESSAGE = """
 THIS IS A TEST
 """
+
+RECEIVER_GMAIL = []
 
 msg = MIMEText(MESSAGE)
 msg['Subject'] = SUBJECT
