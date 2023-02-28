@@ -1,3 +1,6 @@
-estrellahkim@gmail.com
-wjdrhkd0313@gmail.com
-mimi0812@my.yorku.ca
+sampleemail1@gmail.com
+sampleEmail2@gmail.com
+ILeanredJava@gmail.com
+PythonIsSoSimple@gmail.com
+AndUserFriendly@gmail.com
+JavaSoMean@gmail.com
