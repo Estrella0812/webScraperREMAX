@@ -1,4 +1,4 @@
-#EMAIL BOT
+# EMAIL BOT
 
 When saving list of emails on the txt file. Please save them email by email on separate line.
 See the txt file for example.
